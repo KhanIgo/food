@@ -9,6 +9,6 @@ Frontend: React
 Mobile app: Ionic framework
 
 
-Just a project for learning new tech stack
+Just a pet project for learning new tech stack
 
 # PS any unauthorized use is strictly prohibited
