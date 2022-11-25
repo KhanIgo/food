@@ -7,3 +7,8 @@ Backend: CMS Strapi
 Frontend: React
 
 Mobile app: Ionic framework
+
+
+Just a project for learning new tech stack
+
+# PS any unauthorized use is strictly prohibited
